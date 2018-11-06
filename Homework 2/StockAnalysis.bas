@@ -1,4 +1,3 @@
-Attribute VB_Name = "Module1"
 '------------------------------------------------------------------------------
 '
 ' For each worksheet in a file, this function will process a table

@@ -1,6 +1,6 @@
 # Unit 2 | Assignment - The VBA of Wall Street
 
-* Please see the assignment README <https://www.github.com>
+* Please see the assignment README <https://github.com/mhflynn/UCIDataAnalytics/blob/master/Homework%202/Unit2%20README.md>
 
 ### Instructions 
 
